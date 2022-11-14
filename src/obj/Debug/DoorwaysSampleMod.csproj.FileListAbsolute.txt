@@ -1,0 +1,7 @@
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\src\obj\Debug\DoorwaysSampleMod.csproj.AssemblyReference.cache
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\src\obj\Debug\DoorwaysSampleMod.csproj.CoreCompileInputs.cache
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\content\DoorwaysSampleMod.dll.config
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\content\DoorwaysSampleMod.dll
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\content\DoorwaysSampleMod.pdb
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\src\obj\Debug\DoorwaysSampleMod.dll
+C:\Users\Montessquio\AppData\LocalLow\Weather Factory\Cultist Simulator\mods\DoorwaysSampleMod\src\obj\Debug\DoorwaysSampleMod.pdb

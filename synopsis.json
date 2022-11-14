@@ -1,0 +1,11 @@
+{
+	"name": "Doorways Sample Mod",
+	"author": "Montessquio",
+	"version": "0.2.0",
+	"description": "An example mod used to showcase Doorways features.",
+	"description_long": "An example mod used to showcase Doorways features.",
+
+    "doorways": {
+        "dll": "content\\DoorwaysSampleMod.dll"
+    },
+}
